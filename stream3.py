@@ -11,7 +11,7 @@ st.title('My first app')
 
 st.write("Here's our second attempt at using data to create a table:")
 
-'Starting a long computation...'
+'Starting a long computation....'
 
 # Add a placeholder
 latest_iteration = st.empty()
